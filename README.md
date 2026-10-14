@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tatyurboo
+- 👋 Hi, I’m Doussouab
 - 👀 I’m interested in computer engineering 
 - 🌱 I’m currently learning the basic courses of computer engineering
 - 💞️ I’m looking to collaborate on project or potential opportunities
